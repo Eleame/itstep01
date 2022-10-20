@@ -9,3 +9,8 @@ section{
     background: #000;
     color: aliceblue;
 }
+
+div ul{
+    color: aliceblue;
+    text-decoration: none;
+}
